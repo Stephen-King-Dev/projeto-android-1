@@ -42,10 +42,11 @@ body {
 
 header {
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor4), var(--cor5));
-    height: 25%;
+    padding: 2.2rem 1rem;
     text-align: center;
     padding-top: 1%;
     padding-bottom: 1%;
+    position: relative;
     h1 {
         color: white;
         font-family: var(--fonte-destaque);
